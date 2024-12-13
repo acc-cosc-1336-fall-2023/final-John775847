@@ -1,3 +1,5 @@
+def test_config():
+    return True
 
 class Stock:
     def __init__(self, symbol, company_name):
